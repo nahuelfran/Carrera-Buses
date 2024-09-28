@@ -2,7 +2,7 @@
 Este proyecto Web simula una emocionante carrera entre dos buses: Red Bull y Monster, utilizando JavaScript
 ## [Carrera de Buses Web](https://nahuelfran.github.io/Carrera-Buses/index.html)
 <a href="https://nahuelfran.github.io/Carrera-Buses/index.html">
-<img src="./assets/img/logo.jpeg" alt="Mi logo" width="150" height="150" style="display: block; margin: auto; border-radius: 50%; object-fit: cover;">
+<img src="./assets/img/logo.jpeg" alt="Mi logo" width="150" height="150" >
 </a>
 
 

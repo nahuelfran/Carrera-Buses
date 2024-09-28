@@ -5,5 +5,9 @@ Este proyecto simula una emocionante carrera entre dos buses: Red Bull y Monster
 ## Descripción
 La animación muestra el avance de los buses de forma aleatoria hasta que uno de ellos cruza la meta. El código está diseñado para ser fácil de entender y modificar, lo que lo convierte en una excelente oportunidad para quienes desean practicar programación y explorar la lógica de simulaciones.
 
+## Carrera de Buses Web
+La Web simula el avance de los buses de forma aleatoria hasta que uno de ellos cruza la meta, usando javaScript
+
 ## Créditos
 **Autor:** Nilver T.I  
+**Autor version Web:**Francis R.G.

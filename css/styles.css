@@ -4,12 +4,12 @@ body {
     background-color: #000000;
 }
 .logo {
-    display: block;            /* Hace que la imagen se comporte como un bloque */
-    margin: 20px auto;         /* Centra la imagen horizontalmente con auto */
-    width: 150px;              /* Ajusta el tamaño del logo (puedes cambiarlo) */
-    height: 150px;             /* La altura debe ser igual al ancho para que sea circular */
-    border-radius: 50%;        /* Esto hace que la imagen sea circular */
-    object-fit: cover;         /* Asegura que la imagen se ajuste bien dentro del círculo */
+    display: block;            
+    margin: 20px auto;         
+    width: 150px;              
+    height: 150px;             
+    border-radius: 50%;        
+    object-fit: cover;         
 }
 a {
     text-decoration: none;

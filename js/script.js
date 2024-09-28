@@ -3,6 +3,9 @@ function startRace() {
     const bus2 = document.getElementById('bus2');
     const winner = document.getElementById('winner');
     const button = document.getElementById('startButton');
+    const audio = document.getElementById('audio');
+    
+    audio.play()
     let pos1 = 0;
     let pos2 = 0;
     winner.textContent = '';

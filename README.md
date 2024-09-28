@@ -10,4 +10,4 @@ La Web simula el avance de los buses de forma aleatoria hasta que uno de ellos c
 
 ## Créditos
 **Autor:** Nilver T.I  
-**Autor version Web:**Francis R.G.
+**Autor version Web:** Francis R.G.
